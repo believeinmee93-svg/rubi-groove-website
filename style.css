@@ -1,4 +1,4 @@
-/* =========================================
+==/* =========================================
    RUBI GROOVE — MAIN WEBSITE STYLES
    ========================================= */
 
@@ -123,8 +123,8 @@ section p {
     min-height: 100vh;
     padding: 140px 8% 80px;
     display: flex;
-    align-items: center;
-    justify-content: flex-start;
+    align-items: flex-start;
+    justify-content: center;
 
     background-image:
         linear-gradient(
