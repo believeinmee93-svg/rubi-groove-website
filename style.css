@@ -145,7 +145,7 @@ section p {
     position: relative;
     z-index: 2;
     width: min(560px, 100%);
-    transform: translateX(-90px);
+    transform: translateX(-55px, -20px);
 }
 
 .hero-eyebrow {
