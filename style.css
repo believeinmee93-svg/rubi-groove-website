@@ -347,3 +347,37 @@ footer p {
         font-size: 1.2rem;
     }
 }
+/* TEXT COLOR FIX */
+body {
+    color: #f4eee5;
+}
+
+header,
+header a,
+nav,
+nav a,
+.hero-content,
+#home h1 {
+    color: #f4eee5;
+}
+
+.hero-eyebrow {
+    color: #c6a15b;
+}
+
+.hero-tagline {
+    color: #f4eee5;
+}
+
+.button-primary {
+    color: #0b0909;
+}
+
+.button-secondary {
+    color: #f4eee5;
+}
+
+#home h1 span:last-child {
+    color: transparent;
+    -webkit-text-stroke: 1.5px #f4eee5;
+}
